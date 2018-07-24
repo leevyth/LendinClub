@@ -1,1 +1,1 @@
-# LendinClub
+# LendingClub
